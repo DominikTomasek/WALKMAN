@@ -1,6 +1,6 @@
 # Walkman 
 Is simple walking robot based on ardunio board. Perfect little project for start with aurduino or if you want build some kind of robot.
-so there are compoments which I used for this robot :
+So there are compoments which I used for this robot :
 
 1.arduino uno - which works here as mind of this robot 
 
