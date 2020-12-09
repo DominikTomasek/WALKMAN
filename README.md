@@ -18,6 +18,6 @@ So there are compoments which I used for this robot :
 
 8.pla legs print also on 3d printer 
 
-In this project yoz will learn how to work compoments which I named.
-To be presaisly stuf like  setting servomotors on right angle, set right distance for your IR- sensor, making your own set of color from rgb diodes and other stuff.
+In this project you will learn how to work compoments which I named.
+To be presaisly stuff like  setting servomotors on right angle, set right distance for your IR- sensor, making your own set of color from rgb diodes and other stuff.
 
