@@ -3,6 +3,7 @@ Is simple walking robot based on ardunio board. Perfect little project for start
 so there are compoments which I used for this robot :
 
 1.arduino uno - which works here as mind of this robot 
+
 2.homemade shield mark1 -on this litlle pcb you connects all parts together
 
 3.four servomotors - they are here for legs and movement of robot 
