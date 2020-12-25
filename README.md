@@ -1,5 +1,5 @@
 # Walkman 
-Is simple walking robot based on ardunio board. Perfect little project for start with aurduino or if you want build some kind of robot.
+Is simple walking robot based on ardunio board. Perfect little project for start with arduino or if you want build some kind of robot.
 So there are compoments which I used for this robot :
 
 1.arduino uno - which works here as mind of this robot 
@@ -12,12 +12,12 @@ So there are compoments which I used for this robot :
 
 5.ir sensor - serves here as eyes for stop 
 
-6.wires - conection between board and other parts 
+6.wires - connection between board and other parts 
 
 7.pla body print on 3d printer 
 
 8.pla legs print also on 3d printer 
 
-In this project you will learn how to work compoments which I named.
+In this project you will learn how to work components which I named.
 To be presaisly stuff like  setting servomotors on right angle, set right distance for your IR- sensor, making your own set of color from rgb diodes and other stuff.
 
